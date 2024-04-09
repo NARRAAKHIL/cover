@@ -146,7 +146,8 @@ bk.html
 
 ## OUTPUT:
 
-![alt text](<Screenshot (37).png>)
+![Screenshot (37)](https://github.com/NARRAAKHIL/cover/assets/144979843/a6ec6d6e-d36d-4d32-954a-112239f05690)
+
 
 
 ## RESULT:
